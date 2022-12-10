@@ -1,4 +1,4 @@
-# Python_pesticides
+# Reactive pesticides Use
 
 Codes for reproducing simulations available in: Exploiting Competitive Interactions in Pest Management: The Principle of Pest Containment - by Guariento et al. al.
 
