@@ -1,6 +1,6 @@
 # Cover letter
 
-## Dear Editor Dr(a). ...
+## Dear Editor,
 
 Please, find enclosed our manuscript **Exploiting competitive interactions in pest control: The principle of pest contaiment**
 
