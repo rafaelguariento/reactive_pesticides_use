@@ -2,7 +2,7 @@
 
 ## Dear Editor,
 
-Please, find enclosed our manuscript **Exploiting competitive interactions in pest control: The principle of pest containment.**
+Please, find enclosed our manuscript **Exploiting Competitive Interactions to Control Pest Resistance: The Principle of Pest Containment.**
 
 By *Rafael D. Guariento*, *Maurício de Almeida-Gomes*, *Luiz Gustavo R. Oliveira-Santos*, *Aliny Patrícia F. Pires*, and *Fábio de Oliveira Roque*
 
